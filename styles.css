@@ -22,7 +22,7 @@ main {
     background-color: hsl(244, 38%, 16%);
     display: grid;
     grid-template-columns: 1fr 1fr;
-    place-contents: center;
+    place-content: center;
     margin: 8.5em auto;
     border-radius: 6px;
 }
