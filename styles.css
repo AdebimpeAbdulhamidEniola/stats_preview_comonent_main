@@ -38,7 +38,8 @@ main {
 
 h1 {
     color: hsl(0, 0%, 100%);
-    width: 350px;
+    font-size:1.5rem;
+
 }
 
 h1 > span {
@@ -48,10 +49,11 @@ h1 > span {
 p {
     color: hsla(0, 0%, 100%, 0.75);
     margin-top: 1em;
-    width: 400px;
+    
 
     font-family: 'Lexend Deca', sans-serif;
     font-weight: 400;
+    font-size:0.85rem;
 
     line-height: 1.4;
 
